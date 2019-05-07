@@ -8,3 +8,11 @@ checkerboard.
 At the same time I was learning what functional programming was all about,
 so I decided to write a solution in both ways, one using OOP and the other
 using FP.
+
+# Pre-requisites
+* pip
+* python
+
+# Running the code
+1. Run `pip install pillow`
+2. Run `python <filename.py>`
