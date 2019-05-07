@@ -2,7 +2,7 @@ from PIL import Image, ImageColor
 
 # Usage:
 #   pip install pillow
-#   python checkerboard.py
+#   python checkerboard-oop.py
 
 class CheckerBoard:
 

@@ -2,7 +2,7 @@ from PIL import Image, ImageColor
 
 # Usage:
 #   pip install pillow
-#   python checkerboard2.py
+#   python checkerboard-fp.py
 
 def buildBoard(columns, color1, color2):
     # build a row of color1, color2 values based on even/odd
